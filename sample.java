@@ -1,7 +1,5 @@
 public class sample{
 pulic static void main(String[] args){
-system.out.println("sample text)[D");
+system.out.println("sample text)");
 }
 }
-[B[A[B[B
-[A
